@@ -1,4 +1,12 @@
-### Hi there 👋
+#David Teixeira Pinto 👋
+
+**`Software Engineer`**
+
+I'm an ambitious professional with a couple of years of experience as a Software Engineer. I offer a dynamic blend of technical proficiency, adaptability, and a passion for problem-solving. 
+
+My passion for continuous learning and a track record of successful project delivery reflect my commitment to staying at the forefront of the ever-evolving software development landscape. 
+
+I am eager to contribute with my skills to ambitious projects and collaborate with like-minded professionals. Let's connect!
 
 <!--
 **davidtpinto/davidtpinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
