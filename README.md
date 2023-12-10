@@ -8,6 +8,12 @@ My passion for continuous learning and a track record of successful project deli
 
 I am eager to contribute with my skills to ambitious projects and collaborate with like-minded professionals. Let's connect!
 
+---
+
+### Languages and Tools
+
+<img align="center" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+          
 <!--
 **davidtpinto/davidtpinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
