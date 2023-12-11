@@ -1,4 +1,4 @@
-# David Teixeira Pinto 👋
+# David Teixeira Pinto 👾
 
 **`Software Engineer`**
 
